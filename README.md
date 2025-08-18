@@ -3,6 +3,6 @@ These are my Java Codes from the 2st Year Course, Data Structures and Algorithms
 
 # Midterm Codes 
 
-(1) Enabling Asssessment 1 - M_Activity1 <br />
+(1) Enabling Assessment 1 - M_Activity1 <br />
 (2) Enabling Assessment 1 - M_Activity2 <br />
 (3) Enabling Assessment 1 - M_Activity3 <br />
