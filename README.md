@@ -13,7 +13,7 @@ I am pleased to share my Java code from the (S-ITC124) Data Structure and Algori
    - ArraySample_1_Ubungen
    - ArraySample_2_Ubungen
    - ArraySample_3_Ubungen
-   - ArraySample_4_Ubungen
+   - ArraySample_4_Ubungen <br />
 (5) Enabling Assessment - M_Activity4A_Ubungen <br />
 (6) Enabling Assessment - M_Activity4B_Ubungen <br />
 (7) Enabling Assessment - M_Activity4C_Ubungen <br />
