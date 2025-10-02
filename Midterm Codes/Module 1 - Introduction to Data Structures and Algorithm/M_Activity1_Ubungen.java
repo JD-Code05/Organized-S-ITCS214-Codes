@@ -3,7 +3,7 @@
  */
 
 package com.mycompany.m_activity1_ubungen;
-
+/ 85263 then your program should return 5 because 85263 is a 5-digit number.
 /**
  *
  * Ubungen, John Daniel L, BCS23
