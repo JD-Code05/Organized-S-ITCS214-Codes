@@ -14,7 +14,7 @@ Module 2 - List and Array: <br />
   - ArraySample_2_Ubungen <br />
   - ArraySample_3_Ubungen <br />
   - ArraySample_4_Ubungen <br /> 
-<br/>
+<br  />
 (5) Enabling Assessment - M_Activity4A_Ubungen <br />
 (6) Enabling Assessment - M_Activity4B_Ubungen <br />
 (7) Enabling Assessment - M_Activity4C_Ubungen <br />
