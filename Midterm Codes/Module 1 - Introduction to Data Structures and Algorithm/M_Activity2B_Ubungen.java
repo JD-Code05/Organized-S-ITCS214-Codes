@@ -1,3 +1,10 @@
+/* Method that determines whether a given parameter n is an Armstrong number or not. 
+   This method will call the methods created in 1 and 2.A number (n) is said to be an Armstrong number if the sum of the nth powers of each of its digits is equal to the number (n).
+
+   Write a program containing the following user-defined methods. You are not allowed to use built-in
+   methods in Java
+
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
