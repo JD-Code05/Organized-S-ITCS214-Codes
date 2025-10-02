@@ -1,8 +1,9 @@
-/*  Write a program containing the following user-defined methods. You are not allowed to use built-in
-    methods in java.
+/* 
+Write a program containing the following user-defined methods. You are not allowed to use built-in
+methods in java.
     
-    Method that returns the length of an n-digit parameter. If the value submitted to the method is
-    85263 then your program should return 5 because 85263 is a 5-digit number
+Method that returns the length of an n-digit parameter. If the value submitted to the method is
+85263 then your program should return 5 because 85263 is a 5-digit number
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
