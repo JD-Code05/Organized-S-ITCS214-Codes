@@ -3,18 +3,19 @@ I am pleased to share my Java code from the (S-ITC124) Data Structure and Algori
 
 # Midterm Codes 
 
-## Module 1 - Introduction to Data Structures and Algorithm: <br />
-(1) Enabling Assessment - M_Activity1_Ubungen <br />
-(2) Enabling Assessment - M_Activity2A_Ubungen <br />
-(3) Enabling Assessment - M_Activity2B_Ubungen <br />
+## Module 1 - Introduction to Data Structures and Algorithm
+(1) Enabling Assessment - M_Activity1_Ubungen  
+(2) Enabling Assessment - M_Activity2A_Ubungen  
+(3) Enabling Assessment - M_Activity2B_Ubungen  
 
-## Module 2 - List and Array: <br />
-(4) Enabling Assessment - M_Activity3_Ubungen <br />
-   - ArraySample_1_Ubungen
-   - ArraySample_2_Ubungen
-   - ArraySample_3_Ubungen
-   - ArraySample_4_Ubungen <br />
-(5) Enabling Assessment - M_Activity4A_Ubungen <br />
-(6) Enabling Assessment - M_Activity4B_Ubungen <br />
-(7) Enabling Assessment - M_Activity4C_Ubungen <br />
+## Module 2 - List and Array
+(4) Enabling Assessment - M_Activity3_Ubungen  
+- ArraySample_1_Ubungen  
+- ArraySample_2_Ubungen  
+- ArraySample_3_Ubungen  
+- ArraySample_4_Ubungen  
+
+(5) Enabling Assessment - M_Activity4A_Ubungen  
+(6) Enabling Assessment - M_Activity4B_Ubungen  
+(7) Enabling Assessment - M_Activity4C_Ubungen 
 
