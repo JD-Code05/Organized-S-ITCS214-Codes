@@ -7,3 +7,5 @@ Module 1 - Introduction to Data Structures and Algorithm: <br />
 (1) Enabling Assessment 1 - M_Activity1_Ubungen <br />
 (2) Enabling Assessment 1 - M_Activity2A_Ubungen <br />
 (3) Enabling Assessment 1 - M_Activity2B_Ubungen <br />
+
+Module 2 - Lists and Arrays: <br />
