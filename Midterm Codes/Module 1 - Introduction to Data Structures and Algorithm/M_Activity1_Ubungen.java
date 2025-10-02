@@ -16,19 +16,23 @@ package com.mycompany.m_activity1_ubungen;
  * Ubungen, John Daniel L, BCS23
  */
 public class M_Activity1_Ubungen {
+    // This method takes an integer as input and returns how many digits it has
     public static int numberLength (int number) {
-        int count = 0;
-        
+        int count = 0; // counter to keep track of the number of digits
+
+        // Keep dividing the number by 10 until it becomes 0
+        // Each division removes the last digit of the number
         while(number > 0) {
-            number /= 10;
-            count++;
+            number /= 10; // remove the last digit
+            count++;      // increase digit count
         }
-        return count;
+        return count; // Return the total number of digits
     }     
 
     public static void main(String[] args) {
-        int num = 85263;
-        
+        int num = 85263; // the number we want to check(hard-coded)
+
+        // Print the result using the numberLength method
         System.out.println("The length of " + num + " is: " + numberLength(num));
     }
 }
