@@ -10,10 +10,10 @@ I am pleased to share my Java code from the (S-ITC124) Data Structure and Algori
 
 ## Module 2 - List and Array: <br />
 (4) Enabling Assessment - M_Activity3_Ubungen <br />
-  - ArraySample_1_Ubungen <br />
-  - ArraySample_2_Ubungen <br />
-  - ArraySample_3_Ubungen <br />
-  - ArraySample_4_Ubungen <br /> 
+  `ArraySample_1_Ubungen`  
+  `ArraySample_2_Ubungen`  
+  `ArraySample_3_Ubungen`  
+  `ArraySample_4_Ubungen` 
 <br />
 (5) Enabling Assessment - M_Activity4A_Ubungen <br />
 (6) Enabling Assessment - M_Activity4B_Ubungen <br />
