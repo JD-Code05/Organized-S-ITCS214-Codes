@@ -15,6 +15,8 @@ package com.mycompany.m_activity2_ubungen;
  * Ubungen, John Daniel L, BCS23
  */
 public class M_Activity2_Ubungen {
+
+   // This method calculates base^exponent (base raised to exponent)
     public static int power (int base, int exponent) {
         int result = 1;
         for (int i = 0; i < exponent; i++) {
