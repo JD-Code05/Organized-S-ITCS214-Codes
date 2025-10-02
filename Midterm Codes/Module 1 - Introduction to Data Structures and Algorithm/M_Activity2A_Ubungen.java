@@ -1,3 +1,9 @@
+/* Write a program containing the following user-defined methods. You are not allowed to use built-in
+   methods in Java.
+
+   Method that returns the power of a given base and exponent. If the value submitted to the method is
+   3 for base and 4 for exponent then the method should return 81 because 3 raised to 4  is 81.
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
