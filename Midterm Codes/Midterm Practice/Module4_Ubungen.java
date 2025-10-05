@@ -39,7 +39,7 @@ public class Module4_Ubungen {
                     
                 case 2:
                     // ✅ pops (removes) the top element from the stack
-                    System.out.println("Element popped: " + ob1.pop());
+                    System.out.print("Element popped: " + ob1.pop());
                     break;
                     
                 case 3:
