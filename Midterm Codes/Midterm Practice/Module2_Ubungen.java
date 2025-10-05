@@ -21,55 +21,59 @@ package com.mycompany.module2_ubungen;
 import java.util.Scanner;
 
 public class Module2_Ubungen {
+    // This method lets the user enter values to fill an array of a given size
     public static int[] getArrayFromUser(int arrSize) {
-        int[] arr = new int[arrSize]; //create an array
+        int[] arr = new int[arrSize]; // ✅ Creates an integer array with the given size
         
-        Scanner in = new Scanner(System.in); //Setting up the scanner for the user's input
+        Scanner in = new Scanner(System.in); // ✅ Sets up a Scanner for user input
         
-        for (int i = 0; i < arrSize; i++) { //Looping through the arrSize
-            System.out.print("Enter element " + (i + 1) + ": "); //Let the user input the array
-            arr[i] = in.nextInt(); // It will wait for every time the user will input then store it.
+        for (int i = 0; i < arrSize; i++) { // ✅ Loops from 0 to arrSize - 1
+            System.out.print("Enter element " + (i + 1) + ": "); // ✅ Prompts the user to input each array element
+            arr[i] = in.nextInt(); // ✅ Reads and stores the user’s input into the current array index
         }
-        return arr; //returning the array.     
-    }
-    
-    public static int getArraySum(int[] numbers) {
-        int totalSum = 0; //create the variable for the sum;    
-        
-        for (int i = 0; i < numbers.length; i++) { //Looping through the range using numbers.length
-            totalSum += numbers[i];  //Adding all of the elements in the array      
-        }
-        return totalSum; //returning the total Sum of the array           
-    }
-    
-    public static int findMax(int[] numbers) {
-        int maxValue = numbers [0]; //initialize the first index of the array which starts at 0
-        
-        for (int i = 1; i < numbers.length; i++) { 
-            
-            if (numbers[i] > maxValue) { //if the number at the current index is larger than the largest number
-                maxValue = numbers[i];   // Then it will update and get the new maxNumber in the array    
-        }    
-    }
-        return maxValue; // returning the max value of the array
+        return arr; // ✅ Returns the filled array     
     }
 
+    // This method calculates and returns the total sum of all array elements
+    public static int getArraySum(int[] numbers) {
+        int totalSum = 0; // ✅ Variable to store the running total of the array elements    
+        
+        for (int i = 0; i < numbers.length; i++) { // ✅ Loops through the array using its length
+            totalSum += numbers[i];  // ✅ Adds each element to totalSum      
+        }
+        return totalSum; // ✅ Returns the final sum of all elements in the array           
+    }
+
+    // This method finds and returns the largest value in the array
+    public static int findMax(int[] numbers) {
+        int maxValue = numbers[0]; // ✅ Starts by assuming the first element is the largest
+        
+        for (int i = 1; i < numbers.length; i++) { // ✅ Loops from the second element (index 1)
+            
+            if (numbers[i] > maxValue) { // ✅ If the current element is greater than the current max
+                maxValue = numbers[i];   // ✅ Update maxValue to the new larger number    
+            }    
+        }
+        return maxValue; // ✅ Returns the maximum value found in the array
+    }
+
+    // Main method — program execution starts here
     public static void main(String[] args) {
-        Scanner a = new Scanner(System.in); //Setting up the scanner for user's input of size
-        System.out.print("Enter the array Size: "); //Let the user enter the size of the array
-        int size = a.nextInt(); //It updates the size of the array
+        Scanner a = new Scanner(System.in); // ✅ Creates a Scanner for user input
+        System.out.print("Enter the array Size: "); // ✅ Prompts the user to enter how many elements the array will have
+        int size = a.nextInt(); // ✅ Reads and stores the user-input size
         
-        int[] myArray = getArrayFromUser(size); // Gets the size of the array;
-        int sum = getArraySum(myArray); // Gets the sum of the array;
-        int max = findMax(myArray); // Gets the max value of the array;
+        int[] myArray = getArrayFromUser(size); // ✅ Calls method to get all elements from the user
+        int sum = getArraySum(myArray); // ✅ Calls method to calculate total sum
+        int max = findMax(myArray); // ✅ Calls method to find the maximum number in the array
         
-        double average = (double)sum / size; //we use double so that we can have decimal and a more accurate average;
+        double average = (double)sum / size; // ✅ Calculates the average — uses double to include decimals for accuracy
         
-        //Displays the final Sum, average, and max value of the array.
+        // ✅ Displays the total sum, average (formatted to 2 decimals), and max value
         System.out.println("Total Sum: " + sum);
         System.out.println("The Average is: " + String.format("%.2f", average));
         System.out.println("The Maximum value is: " + max);
         
-        a.close();
+        a.close(); // ✅ Closes the Scanner to prevent memory leaks
     }    
 }
