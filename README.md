@@ -5,7 +5,7 @@ Now included with (Instructions).
 
 ---
 
-## Midterm Codes
+## Midterm Code
 (Midterm Lab Exam) - Midterm_Ubungen
 
 ---
