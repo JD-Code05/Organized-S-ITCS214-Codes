@@ -8,14 +8,14 @@ Now included with (Instructions).
 ## Midterm Code
 (Midterm Lab Exam) - Midterm_Ubungen
 
----
-
 ## Midterm Practice Codes
 Module1_Ubungen  
 Module2_Ubungen  
 Module3_Ubungen  
 Module3_Ubungen1  
 Module4_Ubungen
+
+---
 
 ## Module 1 - Introduction to Data Structures and Algorithm
 (1) Enabling Assessment - M_Activity1_Ubungen  
@@ -41,7 +41,5 @@ Module4_Ubungen
 (8) Enabling Assessment - M_Activity5A_Ubungen  
 (9) Enabling Assessment - M_Activity5B_Ubungen  
 (10) Enabling Assessment - M_Activity6_Ubungen  
-
----
 
 
