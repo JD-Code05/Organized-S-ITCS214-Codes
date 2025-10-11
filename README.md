@@ -34,3 +34,7 @@ Now included with (Instructions).
 (8) Enabling Assessment - M_Activity5A_Ubungen  
 (9) Enabling Assessment - M_Activity5B_Ubungen  
 (10) Enabling Assessment - M_Activity6_Ubungen
+
+---
+
+### Midterm Practice Codes
