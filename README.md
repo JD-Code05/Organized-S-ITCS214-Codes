@@ -19,10 +19,10 @@ Now included with (Instructions).
 
 ## Module 2 - List and Array
 (4) Enabling Assessment - M_Activity3_Ubungen  
- - ArraySample_1_Ubungen  
- - ArraySample_2_Ubungen  
- - ArraySample_3_Ubungen  
- - ArraySample_4_Ubungen  
+- ArraySample_1_Ubungen  
+- ArraySample_2_Ubungen  
+- ArraySample_3_Ubungen  
+- ArraySample_4_Ubungen  
 
 (5) Enabling Assessment - M_Activity4A_Ubungen  
 (6) Enabling Assessment - M_Activity4B_Ubungen  
@@ -33,13 +33,13 @@ Now included with (Instructions).
 ## Module 3 - Linked List
 (8) Enabling Assessment - M_Activity5A_Ubungen  
 (9) Enabling Assessment - M_Activity5B_Ubungen  
-(10) Enabling Assessment - M_Activity6_Ubungen
+(10) Enabling Assessment - M_Activity6_Ubungen  
 
 ---
 
-### Midterm Practice Codes
-Module1_Ubungen
-Module2_Ubungen
-Module3_Ubungen
-Module3_Ubungen1
+## Midterm Practice Codes
+Module1_Ubungen  
+Module2_Ubungen  
+Module3_Ubungen  
+Module3_Ubungen1  
 Module4_Ubungen
