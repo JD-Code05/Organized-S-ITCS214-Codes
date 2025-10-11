@@ -10,6 +10,13 @@ Now included with (Instructions).
 
 ---
 
+## Midterm Practice Codes
+Module1_Ubungen  
+Module2_Ubungen  
+Module3_Ubungen  
+Module3_Ubungen1  
+Module4_Ubungen
+
 ## Module 1 - Introduction to Data Structures and Algorithm
 (1) Enabling Assessment - M_Activity1_Ubungen  
 (2) Enabling Assessment - M_Activity2A_Ubungen  
@@ -37,9 +44,4 @@ Now included with (Instructions).
 
 ---
 
-## Midterm Practice Codes
-Module1_Ubungen  
-Module2_Ubungen  
-Module3_Ubungen  
-Module3_Ubungen1  
-Module4_Ubungen
+
