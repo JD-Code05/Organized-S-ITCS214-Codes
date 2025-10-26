@@ -1,7 +1,7 @@
 # Organized-Java-Codes
 I am pleased to share my Java code from the (S-ITC124) Data Structures and Algorithms course.  
 The code has been organized according to the modules and includes comprehensive comments for clarity and understanding.  
-Now included with (Instructions)..
+Now included with (Instructions).
 
 ---
 
