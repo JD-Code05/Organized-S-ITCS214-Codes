@@ -6,9 +6,6 @@ Now included with (Instructions).
 ---
 
 ## Midterm Code
-
----  
-
 (Midterm Lab Exam) - Midterm_Ubungen
 
 ## Midterm Practice Codes
