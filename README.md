@@ -50,7 +50,13 @@ Module4_Ubungen
 ---  
 
 ## Finalterm Codes  
-## Module 5 - Queues
+## Module 5 - Queues  
+(12) Enabling Assessment - F_Activity1_Ubungen 
+(13) Enabling Assessment - F_Activity2_Ubungen  
+
+---
+
+## Module 6 - Recursion
 
 
 
