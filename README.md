@@ -56,7 +56,13 @@ Module4_Ubungen
  
 ---
 
-## Module 6 - Recursion
+## Module 6 - Recursion  
+(14) Enabling Assessment - F_Activity3_Ubungen  
+
+---
+
+## Module 7 - Trees and Binary Trees  
+
 
 
 
