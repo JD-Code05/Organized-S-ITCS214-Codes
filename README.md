@@ -91,10 +91,6 @@ Each activity now includes **instructions** for easy reference.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FINALS-Section-purple?style=for-the-badge" />
-</p>
-
 ## Module 5 — Queues
 
 | # | Activity | File |
@@ -112,7 +108,7 @@ Each activity now includes **instructions** for easy reference.
 
 ---
 
-## 📙 Module 7 — Trees and Binary Trees
+## Module 7 — Trees and Binary Trees
 
 | # | Activity | File |
 |---|----------|------|
@@ -122,6 +118,6 @@ Each activity now includes **instructions** for easy reference.
 ---
 
 <p align="center">
-  <b>Made with ☕ by JD Ubungen</b><br>
+  <b>Made by JD Ubungen</b><br>
   <i>S-ITCS124 — Data Structures and Algorithms</i>
 </p>
