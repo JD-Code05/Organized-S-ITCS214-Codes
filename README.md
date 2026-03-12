@@ -2,8 +2,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Course-ITCS124-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Course:</b> ITCS124 | <b>Status:</b> Complete
 </p>
 
 > **S-ITCS124 — Data Structures and Algorithms**
