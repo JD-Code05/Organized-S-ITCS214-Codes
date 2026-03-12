@@ -1,7 +1,7 @@
 <h1 align="center">Organized Java Codes</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="[https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" />
   <img src="https://img.shields.io/badge/Course-ITCS124-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
 </p>
